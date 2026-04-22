@@ -30,3 +30,6 @@ This repository contains the supplementary materials and the complete reproducib
 ## Contact
 
 For any questions or collaborations, please reach out to the authors of the study.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19690320.svg)](https://doi.org/10.5281/zenodo.19690320)
+
