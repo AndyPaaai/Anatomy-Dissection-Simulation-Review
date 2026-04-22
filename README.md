@@ -16,9 +16,9 @@ This repository contains the supplementary materials and the complete reproducib
   - Logistic regression models to predict the reporting of objective and clinical outcomes.
   - Bibliometric modeling to assess citation visibility.
 
-- `Supplementary Material #1.docx`: Supplementary document detailing additional methodology or extended results.
-- `Supplementary Material #2.csv`: The main dataset retrieved from Scopus.
-- `Supplementary Material #3.csv`: Results from sensitivity analyses (Original Articles Only logistic regressions).
+- `Supplementary Material 1.docx`: Supplementary document detailing additional methodology or extended results.
+- `Supplementary Material 2.csv`: The main dataset retrieved from Scopus.
+- `Supplementary Material 3.csv`: Results from sensitivity analyses (Original Articles Only logistic regressions).
 
 ## How to use
 
